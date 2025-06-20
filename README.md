@@ -5,7 +5,6 @@
 
 
 1. [Github Acccount](https://github.com)
-2. 
 
 
 
@@ -14,4 +13,16 @@ Create a new environment
 
 ```
 python -m venv venv 
+```
+
+Activate the virtual environment
+```
+.\venv\Scripts\activate
+```
+
+
+Install Requirements
+
+```
+pip install -r .\requirements.txt
 ```
